@@ -1,0 +1,1 @@
+BattleEntityMgr = Class.DerivedClass(AbsEntityMgr, "BattleEntityMgr")
